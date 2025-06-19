@@ -1,0 +1,10 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView android:text="Rate your song!" android:textSize="18sp"/>
+    <RatingBar android:id="@+id/rateBar" android:numStars="5"/>
+    <TextView android:id="@+id/tvRated"/>
+</LinearLayout>
