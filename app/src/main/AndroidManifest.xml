@@ -12,5 +12,4 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RateStar"
         tools:targetApi="31" />
-
 </manifest>
