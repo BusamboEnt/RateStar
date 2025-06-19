@@ -5,6 +5,6 @@
     android:gravity="center"
     android:padding="16dp">
 
-    <TextView android:text="🎵 Welcome to MusicRate App 🎵" android:textSize="24sp" android:gravity="center"/>
+    <TextView android:text="Welcome to MusicRate App " android:textSize="24sp" android:gravity="center"/>
     <Button android:id="@+id/btnStart" android:text="Start"/>
 </LinearLayout>
